@@ -1,1 +1,3 @@
 # dynamic-website
+
+Dynamic websites are written in js, html and more...
